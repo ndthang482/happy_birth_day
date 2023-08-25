@@ -13,6 +13,7 @@ canvas {
   display: block;
 }
 h1 {
+  white-space: nowrap;
   position: absolute;
   top: 20%;
   left: 50%;
@@ -29,7 +30,7 @@ h1 {
   height: 400px;
   position: absolute;
   margin: auto;
-  left: -10%;
+  left: -22%    ;
   right: 0;
   top: 28%;
   bottom: 0;
